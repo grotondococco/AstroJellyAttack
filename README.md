@@ -11,7 +11,8 @@ possibile scegliere la risoluzione in base al proprio monitor, ed infine è poss
 scegliere tra le quadruple di tasti IJKL e Keypad 8456 per utilizzare il powerup 
 “Camera Peak”(spiegazione più avanti). È infine disponibile un pulsante per 
 visualizzare la schermata dei crediti.
-![Video Menu Opzioni e Crediti](https://github.com/coccojack/AstroJellyAttack/blob/main/recordings/options.mp4)
+![Gif Menu Opzioni e Crediti](https://github.com/coccojack/AstroJellyAttack/blob/main/screenshots/credits.gif)
+![Immagine Tutorial](https://github.com/coccojack/AstroJellyAttack/blob/main/screenshots/tutorial.jpg)
 ## Lobby di gioco:
 All’avvio della partita il giocatore è trasportato in una scena dove può interagire 
 cliccando sui personaggi: Il boss delle gelatine ed il mercante. Cliccando sul boss 
