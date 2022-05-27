@@ -1,0 +1,48 @@
+
+Monster1Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrontBody
+  rotate: true
+  xy: 2, 25
+  size: 228, 214
+  orig: 228, 214
+  offset: 0, 0
+  index: -1
+FrontClosedEye
+  rotate: true
+  xy: 401, 79
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+FrontEye
+  rotate: true
+  xy: 401, 165
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+FrontMouth
+  rotate: true
+  xy: 343, 73
+  size: 180, 56
+  orig: 180, 56
+  offset: 0, 0
+  index: -1
+FrontPupil
+  rotate: false
+  xy: 343, 2
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+FrontShadow
+  rotate: true
+  xy: 218, 23
+  size: 230, 123
+  orig: 230, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Monster1Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBody
+  rotate: false
+  xy: 2, 2
+  size: 228, 214
+  orig: 228, 214
+  offset: 0, 0
+  index: -1
+BackShadow
+  rotate: false
+  xy: 232, 93
+  size: 230, 123
+  orig: 230, 123
+  offset: 0, 0
+  index: -1

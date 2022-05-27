@@ -1,0 +1,14 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"BackShadow","bone":"root","attachment":"BackShadow"},
+	{"name":"BackBody","bone":"root","attachment":"BackBody"}
+],
+"skins":{
+	"default":{
+		"BackBody":{"BackBody":{"x":495,"y":203,"width":228,"height":214}},
+		"BackShadow":{"BackShadow":{"x":497,"y":125.5,"width":230,"height":123}}
+	}
+},
+"animations":{"animation":{}}
+}

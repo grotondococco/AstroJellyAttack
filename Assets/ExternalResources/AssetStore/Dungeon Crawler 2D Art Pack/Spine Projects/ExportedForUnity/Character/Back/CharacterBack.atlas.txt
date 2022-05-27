@@ -1,0 +1,62 @@
+
+CharacterBack.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBag
+  rotate: false
+  xy: 283, 101
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+BackBody
+  rotate: false
+  xy: 414, 118
+  size: 142, 99
+  orig: 142, 99
+  offset: 0, 0
+  index: -1
+BackHead
+  rotate: false
+  xy: 2, 2
+  size: 279, 215
+  orig: 279, 215
+  offset: 0, 0
+  index: -1
+BackLeftArm
+  rotate: false
+  xy: 283, 50
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+BackLeftLeg
+  rotate: true
+  xy: 797, 159
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+BackRightArm
+  rotate: false
+  xy: 713, 168
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+BackRightLeg
+  rotate: true
+  xy: 869, 159
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+BackShadow
+  rotate: false
+  xy: 558, 135
+  size: 153, 82
+  orig: 153, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+CharacterLeft.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftArm1
+  rotate: false
+  xy: 2, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+LeftArm2
+  rotate: true
+  xy: 420, 74
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+LeftBag
+  rotate: false
+  xy: 425, 156
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+LeftBody
+  rotate: false
+  xy: 270, 48
+  size: 102, 117
+  orig: 102, 117
+  offset: 0, 0
+  index: -1
+LeftHead
+  rotate: false
+  xy: 2, 34
+  size: 266, 215
+  orig: 266, 215
+  offset: 0, 0
+  index: -1
+LeftLeg1
+  rotate: true
+  xy: 420, 18
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+LeftShadow
+  rotate: false
+  xy: 270, 167
+  size: 153, 82
+  orig: 153, 82
+  offset: 0, 0
+  index: -1
+LeftWeapon
+  rotate: true
+  xy: 374, 64
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1

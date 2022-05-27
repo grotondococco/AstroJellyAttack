@@ -1,0 +1,48 @@
+
+Monster1Left.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftBody
+  rotate: false
+  xy: 2, 19
+  size: 228, 214
+  orig: 228, 214
+  offset: 0, 0
+  index: -1
+LeftClosedEye
+  rotate: true
+  xy: 334, 28
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+LeftEye
+  rotate: true
+  xy: 232, 28
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+LeftMouth
+  rotate: true
+  xy: 436, 2
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+LeftPupil
+  rotate: false
+  xy: 464, 168
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+LeftShadow
+  rotate: false
+  xy: 232, 110
+  size: 230, 123
+  orig: 230, 123
+  offset: 0, 0
+  index: -1

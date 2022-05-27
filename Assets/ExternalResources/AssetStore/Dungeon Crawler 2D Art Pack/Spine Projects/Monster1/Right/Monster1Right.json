@@ -1,0 +1,20 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"RightShadow","bone":"root","attachment":"RightShadow"},
+	{"name":"RightBody","bone":"root","attachment":"RightBody"},
+	{"name":"RightMouth","bone":"root","attachment":"RightMouth"},
+	{"name":"RightEye","bone":"root","attachment":"RightEye"},
+	{"name":"RightPupil","bone":"root","attachment":"RightPupil"}
+],
+"skins":{
+	"default":{
+		"RightPupil":{"RightPupil":{"x":1156,"y":212.5,"width":42,"height":65}},
+		"RightEye":{"RightEye":{"x":1139,"y":222,"width":80,"height":100}},
+		"RightMouth":{"RightMouth":{"x":1128,"y":148,"width":106,"height":56}},
+		"RightBody":{"RightBody":{"x":1068,"y":202,"width":228,"height":214}},
+		"RightShadow":{"RightShadow":{"x":1070,"y":125.5,"width":230,"height":123}}
+	}
+},
+"animations":{"animation":{}}
+}

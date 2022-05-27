@@ -1,0 +1,38 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"LeftShadow","bone":"root","attachment":"LeftShadow"},
+	{"name":"LeftLeg2","bone":"root","attachment":"LeftLeg2"},
+	{"name":"LeftArm4","bone":"root","attachment":"LeftArm4"},
+	{"name":"LeftArm3","bone":"root","attachment":"LeftArm3"},
+	{"name":"LeftEyepart2","bone":"root","attachment":"LeftEyepart2"},
+	{"name":"LeftEye2","bone":"root","attachment":"LeftEye2"},
+	{"name":"LeftPupil2","bone":"root","attachment":"LeftPupil2"},
+	{"name":"LeftBody","bone":"root","attachment":"LeftBody"},
+	{"name":"LeftLeg1","bone":"root","attachment":"LeftLeg1"},
+	{"name":"LeftArm2","bone":"root","attachment":"LeftArm2"},
+	{"name":"LeftArm1","bone":"root","attachment":"LeftArm1"},
+	{"name":"LeftEyepart1","bone":"root","attachment":"LeftEyepart1"},
+	{"name":"LeftEye1","bone":"root","attachment":"LeftEye1"},
+	{"name":"LeftPupil1","bone":"root","attachment":"LeftPupil1"}
+],
+"skins":{
+	"default":{
+		"LeftPupil1":{"LeftPupil1":{"x":2144.5,"y":589.5,"width":39,"height":57}},
+		"LeftEye1":{"LeftEye1":{"x":2169.5,"y":591.5,"width":93,"height":93}},
+		"LeftEyepart1":{"LeftEyepart1":{"x":2188.5,"y":533.5,"width":55,"height":83}},
+		"LeftArm1":{"LeftArm1":{"x":2188.5,"y":429.5,"width":219,"height":129}},
+		"LeftArm2":{"LeftArm2":{"x":2195.5,"y":330,"width":215,"height":158}},
+		"LeftLeg1":{"LeftLeg1":{"x":2261.5,"y":168,"width":167,"height":170}},
+		"LeftBody":{"LeftBody":{"x":2254.5,"y":347,"width":343,"height":362}},
+		"LeftPupil2":{"LeftPupil2":{"x":2144.5,"y":589.5,"width":39,"height":57}},
+		"LeftEye2":{"LeftEye2":{"x":2169.5,"y":591.5,"width":93,"height":93}},
+		"LeftEyepart2":{"LeftEyepart2":{"x":2188.5,"y":533.5,"width":55,"height":83}},
+		"LeftArm3":{"LeftArm3":{"x":2188.5,"y":429.5,"width":219,"height":129}},
+		"LeftArm4":{"LeftArm4":{"x":2195.5,"y":330,"width":215,"height":158}},
+		"LeftLeg2":{"LeftLeg2":{"x":2261.5,"y":168,"width":167,"height":170}},
+		"LeftShadow":{"LeftShadow":{"x":2242,"y":135.5,"width":366,"height":195}}
+	}
+},
+"animations":{"animation":{}}
+}

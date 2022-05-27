@@ -1,0 +1,38 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"RightShadow","bone":"root","attachment":"RightShadow"},
+	{"name":"RightLeg2","bone":"root","attachment":"RightLeg2"},
+	{"name":"RightArm4","bone":"root","attachment":"RightArm4"},
+	{"name":"RightArm3","bone":"root","attachment":"RightArm3"},
+	{"name":"RightEyepart2","bone":"root","attachment":"RightEyepart2"},
+	{"name":"RightEye2","bone":"root","attachment":"RightEye2"},
+	{"name":"RightPupil2","bone":"root","attachment":"RightPupil2"},
+	{"name":"RightBody","bone":"root","attachment":"RightBody"},
+	{"name":"RightLeg1","bone":"root","attachment":"RightLeg1"},
+	{"name":"RightArm2","bone":"root","attachment":"RightArm2"},
+	{"name":"RightArm1","bone":"root","attachment":"RightArm1"},
+	{"name":"RightEyepart1","bone":"root","attachment":"RightEyepart1"},
+	{"name":"RightEye1","bone":"root","attachment":"RightEye1"},
+	{"name":"RightPupil1","bone":"root","attachment":"RightPupil1"}
+],
+"skins":{
+	"default":{
+		"RightPupil1":{"RightPupil1":{"x":1873.5,"y":589.5,"width":39,"height":57}},
+		"RightEye1":{"RightEye1":{"x":1848.5,"y":591.5,"width":93,"height":93}},
+		"RightEyepart1":{"RightEyepart1":{"x":1829.5,"y":533.5,"width":55,"height":83}},
+		"RightArm1":{"RightArm1":{"x":1829.5,"y":429.5,"width":219,"height":129}},
+		"RightArm2":{"RightArm2":{"x":1822.5,"y":329.5,"width":215,"height":157}},
+		"RightLeg1":{"RightLeg1":{"x":1756.5,"y":168,"width":167,"height":170}},
+		"RightBody":{"RightBody":{"x":1763.5,"y":347,"width":343,"height":362}},
+		"RightPupil2":{"RightPupil2":{"x":1873.5,"y":589.5,"width":39,"height":57}},
+		"RightEye2":{"RightEye2":{"x":1848.5,"y":591.5,"width":93,"height":93}},
+		"RightEyepart2":{"RightEyepart2":{"x":1829.5,"y":533.5,"width":55,"height":83}},
+		"RightArm3":{"RightArm3":{"x":1829.5,"y":429.5,"width":219,"height":129}},
+		"RightArm4":{"RightArm4":{"x":1822.5,"y":329.5,"width":215,"height":157}},
+		"RightLeg2":{"RightLeg2":{"x":1756.5,"y":168,"width":167,"height":170}},
+		"RightShadow":{"RightShadow":{"x":1776,"y":135.5,"width":366,"height":195}}
+	}
+},
+"animations":{"animation":{}}
+}

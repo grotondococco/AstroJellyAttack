@@ -1,0 +1,30 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"FrontShadow","bone":"root","attachment":"FrontShadow"},
+	{"name":"FrontWing2","bone":"root","attachment":"FrontWing2"},
+	{"name":"FrontWing1","bone":"root","attachment":"FrontWing1"},
+	{"name":"FrontBody","bone":"root","attachment":"FrontBody"},
+	{"name":"FrontEye3","bone":"root","attachment":"FrontEye3"},
+	{"name":"FrontEye2","bone":"root","attachment":"FrontEye2"},
+	{"name":"FrontEye1","bone":"root","attachment":"FrontEye1"},
+	{"name":"FrontPupil3","bone":"root","attachment":"FrontPupil3"},
+	{"name":"FrontPupil2","bone":"root","attachment":"FrontPupil2"},
+	{"name":"FrontPupil1","bone":"root","attachment":"FrontPupil1"}
+],
+"skins":{
+	"default":{
+		"FrontPupil1":{"FrontPupil1":{"x":207,"y":331,"width":38,"height":60}},
+		"FrontPupil2":{"FrontPupil2":{"x":156,"y":317,"width":32,"height":44}},
+		"FrontPupil3":{"FrontPupil3":{"x":257.5,"y":313.5,"width":33,"height":43}},
+		"FrontEye1":{"FrontEye1":{"x":209.5,"y":333.5,"width":61,"height":81}},
+		"FrontEye2":{"FrontEye2":{"x":157,"y":319,"width":48,"height":58}},
+		"FrontEye3":{"FrontEye3":{"x":259.5,"y":315,"width":47,"height":58}},
+		"FrontBody":{"FrontBody":{"x":205.5,"y":304.5,"width":201,"height":189}},
+		"FrontWing1":{"FrontWing1":{"x":75,"y":355.5,"width":140,"height":103}},
+		"FrontWing2":{"FrontWing2":{"x":337,"y":355.5,"width":140,"height":103}},
+		"FrontShadow":{"FrontShadow":{"x":205.5,"y":115,"width":141,"height":76}}
+	}
+},
+"animations":{"animation":{}}
+}

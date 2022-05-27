@@ -1,0 +1,27 @@
+
+Monster2Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackBody
+  rotate: false
+  xy: 2, 2
+  size: 201, 189
+  orig: 201, 189
+  offset: 0, 0
+  index: -1
+BackShadow
+  rotate: false
+  xy: 347, 115
+  size: 141, 76
+  orig: 141, 76
+  offset: 0, 0
+  index: -1
+BackWing2
+  rotate: false
+  xy: 205, 88
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1

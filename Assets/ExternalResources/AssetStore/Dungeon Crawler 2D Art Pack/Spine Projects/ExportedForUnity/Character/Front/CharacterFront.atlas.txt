@@ -1,0 +1,62 @@
+
+CharacterFront.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrontBody
+  rotate: false
+  xy: 283, 155
+  size: 142, 99
+  orig: 142, 99
+  offset: 0, 0
+  index: -1
+FrontHead
+  rotate: false
+  xy: 2, 39
+  size: 279, 215
+  orig: 279, 215
+  offset: 0, 0
+  index: -1
+FrontLeftArm
+  rotate: false
+  xy: 427, 190
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+FrontLeftLeg
+  rotate: true
+  xy: 359, 11
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+FrontRightArm
+  rotate: false
+  xy: 283, 2
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+FrontRightLeg
+  rotate: false
+  xy: 438, 118
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+FrontShadow
+  rotate: false
+  xy: 283, 71
+  size: 153, 82
+  orig: 153, 82
+  offset: 0, 0
+  index: -1
+FrontWeapon
+  rotate: false
+  xy: 438, 42
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1

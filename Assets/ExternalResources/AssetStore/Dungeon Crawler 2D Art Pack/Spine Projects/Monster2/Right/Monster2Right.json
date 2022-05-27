@@ -1,0 +1,26 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"RightShadow","bone":"root","attachment":"RightShadow"},
+	{"name":"RightWing2","bone":"root","attachment":"RightWing2"},
+	{"name":"RightBody","bone":"root","attachment":"RightBody"},
+	{"name":"RightWing1","bone":"root","attachment":"RightWing1"},
+	{"name":"RightEye2","bone":"root","attachment":"RightEye2"},
+	{"name":"RightEye1","bone":"root","attachment":"RightEye1"},
+	{"name":"RightPupil2","bone":"root","attachment":"RightPupil2"},
+	{"name":"RightPupil1","bone":"root","attachment":"RightPupil1"}
+],
+"skins":{
+	"default":{
+		"RightPupil1":{"RightPupil1":{"x":1471.5,"y":317,"width":27,"height":38}},
+		"RightPupil2":{"RightPupil2":{"x":1510,"y":334,"width":32,"height":54}},
+		"RightEye1":{"RightEye1":{"x":1465.5,"y":315,"width":47,"height":58}},
+		"RightEye2":{"RightEye2":{"x":1502,"y":335,"width":54,"height":76}},
+		"RightWing1":{"RightWing1":{"x":1361,"y":355.5,"width":140,"height":103}},
+		"RightBody":{"RightBody":{"x":1429.5,"y":304.5,"width":201,"height":189}},
+		"RightWing2":{"RightWing2":{"x":1361,"y":355.5,"width":140,"height":103}},
+		"RightShadow":{"RightShadow":{"x":1429.5,"y":115,"width":141,"height":76}}
+	}
+},
+"animations":{"animation":{}}
+}

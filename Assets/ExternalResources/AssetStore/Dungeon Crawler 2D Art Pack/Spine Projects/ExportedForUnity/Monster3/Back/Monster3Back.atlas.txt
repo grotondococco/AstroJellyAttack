@@ -1,0 +1,90 @@
+
+Monster3Back.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackArm1
+  rotate: true
+  xy: 245, 197
+  size: 218, 124
+  orig: 218, 124
+  offset: 0, 0
+  index: -1
+BackArm2
+  rotate: true
+  xy: 245, 417
+  size: 215, 157
+  orig: 215, 157
+  offset: 0, 0
+  index: -1
+BackArm3
+  rotate: false
+  xy: 436, 658
+  size: 218, 124
+  orig: 218, 124
+  offset: 0, 0
+  index: -1
+BackArm4
+  rotate: false
+  xy: 612, 852
+  size: 215, 157
+  orig: 215, 157
+  offset: 0, 0
+  index: -1
+BackBody
+  rotate: false
+  xy: 2, 634
+  size: 432, 375
+  orig: 432, 375
+  offset: 0, 0
+  index: -1
+BackEye1
+  rotate: false
+  xy: 829, 916
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+BackEye2
+  rotate: false
+  xy: 924, 916
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+BackEyepart1
+  rotate: true
+  xy: 829, 862
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+BackEyepart2
+  rotate: true
+  xy: 612, 792
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+BackLeg1
+  rotate: false
+  xy: 436, 784
+  size: 174, 225
+  orig: 174, 225
+  offset: 0, 0
+  index: -1
+BackLeg2
+  rotate: true
+  xy: 2, 2
+  size: 174, 225
+  orig: 174, 225
+  offset: 0, 0
+  index: -1
+BackShadow
+  rotate: true
+  xy: 2, 178
+  size: 454, 241
+  orig: 454, 241
+  offset: 0, 0
+  index: -1

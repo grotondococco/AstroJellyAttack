@@ -1,0 +1,69 @@
+
+Monster2Left.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LeftBody
+  rotate: false
+  xy: 2, 65
+  size: 201, 189
+  orig: 201, 189
+  offset: 0, 0
+  index: -1
+LeftClosedEye1
+  rotate: false
+  xy: 205, 77
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+LeftClosedEye2
+  rotate: false
+  xy: 261, 95
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+LeftEye1
+  rotate: true
+  xy: 2, 9
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+LeftEye2
+  rotate: true
+  xy: 80, 16
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+LeftPupil1
+  rotate: true
+  xy: 140, 31
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+LeftPupil2
+  rotate: true
+  xy: 140, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+LeftShadow
+  rotate: false
+  xy: 347, 178
+  size: 141, 76
+  orig: 141, 76
+  offset: 0, 0
+  index: -1
+LeftWing1
+  rotate: false
+  xy: 205, 151
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1

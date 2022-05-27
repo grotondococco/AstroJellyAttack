@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Astro
+  - Laser
+  - Jelly
+  - Trap
+  - Cartridge
+  - JellyBoss
+  - JellyMerchant
+  - Level1
+  - Level2
+  - Level3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Laser
+  - Astro
+  - Trap
+  - Jelly
+  - Enemy
+  - Bullet
+  - InternalWalls
+  - FlyingEnemy
+  - StartingAreaGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 1059991893
+    locked: 0
+  - name: Shadows
+    uniqueID: 1580582901
+    locked: 0
+  - name: Trap
+    uniqueID: 836158431
+    locked: 0
+  - name: Monster
+    uniqueID: 3685729169
+    locked: 0
+  - name: Bullets
+    uniqueID: 3957147119
+    locked: 0
+  - name: JellyBoss
+    uniqueID: 2923227215
+    locked: 0
+  - name: AstroLaserJelly
+    uniqueID: 3010482423
+    locked: 0
+  - name: BossMonster
+    uniqueID: 987531957
+    locked: 0
+  - name: Explosion
+    uniqueID: 4027870401
+    locked: 0
+  - name: SaveCapsule
+    uniqueID: 1043196615
+    locked: 0

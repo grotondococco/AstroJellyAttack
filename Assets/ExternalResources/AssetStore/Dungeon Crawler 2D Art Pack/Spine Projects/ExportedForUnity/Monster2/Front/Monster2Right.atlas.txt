@@ -1,0 +1,97 @@
+
+Monster2Right.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrontBody
+  rotate: false
+  xy: 2, 65
+  size: 201, 189
+  orig: 201, 189
+  offset: 0, 0
+  index: -1
+FrontClosedEye1
+  rotate: true
+  xy: 85, 8
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+FrontClosedEye2
+  rotate: false
+  xy: 162, 9
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+FrontClosedEye3
+  rotate: false
+  xy: 209, 17
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+FrontEye1
+  rotate: true
+  xy: 2, 2
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+FrontEye2
+  rotate: false
+  xy: 348, 91
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+FrontEye3
+  rotate: false
+  xy: 398, 91
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+FrontPupil1
+  rotate: false
+  xy: 447, 89
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+FrontPupil2
+  rotate: false
+  xy: 255, 27
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+FrontPupil3
+  rotate: false
+  xy: 289, 28
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+FrontShadow
+  rotate: false
+  xy: 205, 73
+  size: 141, 76
+  orig: 141, 76
+  offset: 0, 0
+  index: -1
+FrontWing1
+  rotate: false
+  xy: 205, 151
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1
+FrontWing2
+  rotate: false
+  xy: 347, 151
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1

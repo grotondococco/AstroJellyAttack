@@ -1,0 +1,38 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"FrontShadow","bone":"root","attachment":"FrontShadow"},
+	{"name":"FrontLeg2","bone":"root","attachment":"FrontLeg2"},
+	{"name":"FrontLeg1","bone":"root","attachment":"FrontLeg1"},
+	{"name":"FrontArm4","bone":"root","attachment":"FrontArm4"},
+	{"name":"FrontArm3","bone":"root","attachment":"FrontArm3"},
+	{"name":"FrontArm2","bone":"root","attachment":"FrontArm2"},
+	{"name":"FrontArm1","bone":"root","attachment":"FrontArm1"},
+	{"name":"FrontBody","bone":"root","attachment":"FrontBody"},
+	{"name":"FrontEyepart2","bone":"root","attachment":"FrontEyepart2"},
+	{"name":"FrontEye2","bone":"root","attachment":"FrontEye2"},
+	{"name":"FrontPupil2","bone":"root","attachment":"FrontPupil2"},
+	{"name":"FrontEyepart1","bone":"root","attachment":"FrontEyepart1"},
+	{"name":"FrontEye1","bone":"root","attachment":"FrontEye1"},
+	{"name":"FrontPupil1","bone":"root","attachment":"FrontPupil1"}
+],
+"skins":{
+	"default":{
+		"FrontPupil1":{"FrontPupil1":{"x":493,"y":585.5,"width":54,"height":53}},
+		"FrontEye1":{"FrontEye1":{"x":487.5,"y":591.5,"width":93,"height":93}},
+		"FrontEyepart1":{"FrontEyepart1":{"x":468.5,"y":533.5,"width":55,"height":83}},
+		"FrontPupil2":{"FrontPupil2":{"x":258,"y":585.5,"width":54,"height":53}},
+		"FrontEye2":{"FrontEye2":{"x":263.5,"y":591.5,"width":93,"height":93}},
+		"FrontEyepart2":{"FrontEyepart2":{"x":282.5,"y":533.5,"width":55,"height":83}},
+		"FrontBody":{"FrontBody":{"x":384,"y":352.5,"width":432,"height":375}},
+		"FrontArm1":{"FrontArm1":{"x":138,"y":458,"width":218,"height":122}},
+		"FrontArm2":{"FrontArm2":{"x":134.5,"y":332.5,"width":215,"height":157}},
+		"FrontArm3":{"FrontArm3":{"x":631.5,"y":332.5,"width":215,"height":157}},
+		"FrontArm4":{"FrontArm4":{"x":628,"y":458,"width":218,"height":122}},
+		"FrontLeg1":{"FrontLeg1":{"x":247,"y":192.5,"width":174,"height":225}},
+		"FrontLeg2":{"FrontLeg2":{"x":520,"y":192.5,"width":174,"height":225}},
+		"FrontShadow":{"FrontShadow":{"x":384,"y":135.5,"width":454,"height":241}}
+	}
+},
+"animations":{"animation":{}}
+}
